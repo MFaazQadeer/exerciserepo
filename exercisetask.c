@@ -6,6 +6,11 @@ Date:           03-08-2024
 Day: 		 Saturday
 */
 
+/*assuming resolve the mearch conflit by removing
+<<<<<<< HEAD 
+=======
+Date:           04-08-2024
+>>>>>>> feature*/
 
 int main (){
     unsigned char marks; //as marks are from 0 to 100 so we can use char oor unsigned char 
